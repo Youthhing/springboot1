@@ -38,5 +38,4 @@ public class ProfileControllerTest {
         assertThat(response.getBody()).isEqualTo(expected);
     }
 
-
 }
